@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="E:/UNI/Github/C.png" />
+  <img src="images/C.png" />
 </p>
 
 # C - Various C Exercises
